@@ -1,2 +1,4 @@
 # color-detector-using-hue-channel
-A Python program with openCV, it detects a specific color in an image by Hue channel from HSV model.
+### A C++ program with openCV library, it detects a specific color from the image after converting image to HSV model, and applying a threshold to generate a binary image with intended output. 
+
+## Eng. Meqdad Darweesh
